@@ -1,0 +1,18 @@
+{
+  "name": "homebridge-amx",
+  "version": "1.0.0",
+  "description": "homebridge control amx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines":{
+    "node": ">=10.17.0",
+    "homebridge":">=0.4.8"
+  }
+}
